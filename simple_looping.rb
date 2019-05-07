@@ -4,7 +4,7 @@ def loop_iterator(number_of_times)
   before(:each) do
   @number_of_times = "Oh snap, Destiny's Child!"
 end
-  
+
 
 
 
