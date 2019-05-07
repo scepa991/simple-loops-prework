@@ -1,8 +1,8 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-  before(:each) do
-  @number_of_times = "Oh snap, Destiny's Child!"
+  7.times do 
+    puts "Welcome to Flatiron School's Web Development Course!"
 end
 
 
